@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Hello, World!\n");
+    // printf("Hello, World!\n");
     // int x = 5;
     // int y = 6;
     // printf("%d", x * y);
@@ -53,7 +53,7 @@ int main()
     // printf("%p\n", j);   //all lower case
 
     unsigned int k = -4666656;
-    printf("%u\n", k); // what is this, output, I don't know
+    // printf("%u\n", k); // what is this, output, I don't know
 
     
 
