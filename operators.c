@@ -65,6 +65,24 @@ int main()
     // int a = x && y && z ++;
     // printf("%d", z);    //why 5?
 
+    // You are using GCC
+    // char class_section = 'A';
+    // int roll_number = 30;
+    // printf("Roll number %d in section %c", roll_number, class_section);
+
+    // int a = 10, b = 0, c;
+    // c = a && b;
+    // printf("%d", c);
+
+
+    int x = 1, y = 0, z = 5;
+    int a = x && y && z++;
+    printf("%d", z);
+
+
+    
+
+
     return 0;
 }
 
