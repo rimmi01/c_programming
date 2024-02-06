@@ -76,11 +76,11 @@ int main()
 
 
     int x = 1, y = 0, z = 5;
-    int a = x && y && z++;
-    printf("%d", z);
-
+    int a = y && '\0';  // ascii value of null character is zero 
+    printf("%d", a);
 
     
+
 
 
     return 0;
