@@ -46,7 +46,7 @@ int main()
     // but it will run only when, we use %d for printing
     // printf("%o\n", h);  //%o is used for octa decimal numbers
 
-    int j = 0X45A67D;
+    // int j = 0X45A67D;
     // printf("%d\n", j);
     // printf("%X\n", j);
     // printf("%D\n", j);

@@ -1,3 +1,4 @@
-
-    // int x = 567;
-    // printf("%d", !x);
+intf("%d\n", j);
+    printf("%X\n", j);
+    printf("%D\n", j);
+    print
